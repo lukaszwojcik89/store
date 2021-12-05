@@ -13,6 +13,8 @@ import os.path
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+import product.apps
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
@@ -43,6 +45,8 @@ INSTALLED_APPS = [
     # locals
     'home.apps.HomeConfig',
     'contact.apps.ContactConfig',
+    'product.apps.ProductConfig',
+
 ]
 
 MIDDLEWARE = [

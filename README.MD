@@ -1,6 +1,6 @@
-# Awesome Store 
-# Django Quick
+# Simple Store Template 
 
+## Django Quick
 
 ## Commands:
 
@@ -85,4 +85,7 @@ django-admin startproject --template https://github.com/pawelkonior/django_templ
 8. Views (Logic, views.py)
 9. Django Templates (```templates/<app-name>/<template-name>```)
 10. Router (local urls.py -> urlspattern, global urls.py)
-11. Profit!!
+11. Profit!
+=======
+# Simple Store Template 
+

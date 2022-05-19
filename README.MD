@@ -1,1 +1,1 @@
-# Awesome Store 
+# Simple Store Template 
